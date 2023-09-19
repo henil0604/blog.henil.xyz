@@ -84,12 +84,13 @@
       </header>
 
       <!-- render the post -->
-      <div class="prose dark:prose-invert ">
+      <div class="prose dark:prose-invert">
         <svelte:component this={data.component} />
       </div>
     </article>
 
     <!-- bio -->
+    <div class="mt-36" />
     <hr />
     <div class="py-8">
       <div class="grid gap-8">
