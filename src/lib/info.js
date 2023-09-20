@@ -19,6 +19,6 @@ I’m ${firstName}, an under graduate full stack web developer based in India. I
 // For sake of the live demo, I'm using `username/repo` for github,
 // but you can replace with just your username.
 export const github = 'henil0604'
-export const twitter = 'realhenil'
+export const twitter = 'henilmalaviya'
 export const linkedin = 'henil-malaviya'
 export const instagram = 'henilmalaviya'
