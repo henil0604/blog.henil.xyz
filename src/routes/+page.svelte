@@ -1,9 +1,15 @@
 <script lang="ts">
 	import { Button } from '$lib/components/ui/button';
+	import { NAME, NAVBAR_TITLE } from '$lib/const/index.js';
 	import { formatPublishedAt } from '$lib/utils/date';
 
 	export let data;
 </script>
+
+<svelte:head>
+	<title>Blog - {NAME.FIRST_NAME} {NAME.LAST_NAME}</title>
+	<meta name="description" content="A blog by {NAME.FIRST_NAME} {NAME.LAST_NAME}." />
+</svelte:head>
 
 <div class="list">
 	{#each data.posts as post, index (post.slug)}
