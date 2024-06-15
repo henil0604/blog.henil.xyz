@@ -3,7 +3,7 @@ export const NAME = {
 	LAST_NAME: 'Malaviya'
 };
 
-export const NAVBAR_TITLE = `${NAME.FIRST_NAME}'s Blog`;
+export const NAVBAR_TITLE = `${NAME.FIRST_NAME} ${NAME.LAST_NAME}`;
 
 export const SOCIALS = {
 	GITHUB: 'https://github.com/henil0604',

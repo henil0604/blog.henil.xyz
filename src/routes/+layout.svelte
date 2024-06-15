@@ -10,10 +10,10 @@
 <div class="main">
 	<Header />
 
-	<!-- <hr class="mb-4" /> -->
+	<hr class="mb-4" />
 
 	<div class="content">
-		<slot></slot>
+		<slot />
 	</div>
 
 	<hr />
