@@ -43,6 +43,9 @@
 				font-size: theme('fontSize.xl');
 				font-weight: theme('fontWeight.semibold');
 				letter-spacing: theme('letterSpacing.wide');
+
+				line-height: theme('lineHeight.snug');
+				text-wrap: wrap;
 			}
 
 			& .summary {

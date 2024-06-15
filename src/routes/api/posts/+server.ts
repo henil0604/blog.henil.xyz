@@ -16,7 +16,6 @@ export const GET: RequestHandler = async () => {
 		const loadPostSlugAndMetadata = async function () {
 			// dynamically import markdown post
 			const markdownPostModule = await loadMarkdownPostModule();
-			console.log(markdownPostModule);
 
 			// slug is everything after last / without the file extension
 			const slug = path.slice(path.lastIndexOf('/') + 1).replace('.md', '');
@@ -32,8 +31,6 @@ export const GET: RequestHandler = async () => {
 
 	// load all posts concurrently
 	const posts = await Promise.all(postPromises);
-
-	console.log(posts);
 
 	// sort by publication date (descending/most recent first)
 	const sortedPosts = posts.sort((post1, post2) => {

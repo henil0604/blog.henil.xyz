@@ -1,5 +1,5 @@
 ---
-title: What is stopping us from building ChatPat
+title: What is stopping us from building ChatPat?
 publishedAt: 2023-09-19
 summary: For the past six months, we have been working on ChatPat, a fully secure and user experience prioritized chat service. The first prototype we created was back in March 2023. Since then, we have developed about five prototypes. One of these prototypes excels in terms of speed, while another one stands out for its user interface. However, when it comes to the overall user experience, all of them fall short. The main challenge we are currently facing is the flow of messages.
 ---
