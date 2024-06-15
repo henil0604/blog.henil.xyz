@@ -6,7 +6,7 @@ export const load: PageLoad = async (event) => {
 
 	const slug = params.slug;
 
-	const markdownPost: MarkdownPost = await import(`/src/posts/${slug}.md`);
+	const markdownPost: MarkdownPost = await import(`../../../../posts/${slug}.md`);
 
 	return {
 		metadata: markdownPost.metadata,

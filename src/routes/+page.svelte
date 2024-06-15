@@ -13,7 +13,7 @@
 
 <div class="list">
 	{#each data.posts as post, index (post.slug)}
-		<Button href="/{post.slug}" variant="ghost" class="item">
+		<Button href="/post/{post.slug}" variant="ghost" class="item">
 			<div class="title">
 				{post.metadata.title}
 			</div>

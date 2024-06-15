@@ -3,7 +3,7 @@ import { json, type RequestHandler } from '@sveltejs/kit';
 
 export const GET: RequestHandler = async () => {
 	// use vite glob import to get all markdown posts
-	const markdownPostModules = import.meta.glob('/src/posts/*.md') as Record<
+	const markdownPostModules = import.meta.glob('/posts/*.md') as Record<
 		string,
 		() => Promise<MarkdownPost>
 	>;
