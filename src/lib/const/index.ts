@@ -9,5 +9,5 @@ export const SOCIALS = {
 	GITHUB: 'https://github.com/henil0604',
 	X: 'https://x.com/henilmalaviya',
 	LINKEDIN: 'https://linkedin.com/in/henil-malaviya',
-	WEBSITE: 'https://henil.xyz'
+	WEBSITE: 'https://henil.dev'
 };
