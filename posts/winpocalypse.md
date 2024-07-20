@@ -30,4 +30,4 @@ Additionally, Linux distributions benefit from multiple layers of verification a
 
 ---
 
-So, let's not windows for critical infrastructure, unless we want to turn the apocalypse into a feature.
+So, let's not use windows for critical infrastructure, unless we want to turn the apocalypse into a feature.
