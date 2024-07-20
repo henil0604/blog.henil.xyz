@@ -4,7 +4,7 @@ publishedAt: 2024-07-20
 summary: A global update from CrowdStrike caused Windows computers to crash, highlighting the risks of relying on Windows for critical infrastructure.
 ---
 
-Yesterday, on July 18th, 2024, the world was in chaos. CrowdStrike pushed a faulty global update that affected millions of Windows computers. The scale of this incident was HUGE. I'm still in shock that so much of our important infrastructure relies on Windows. This incident is a major opportunity to discuss why Windows can be problematic as an operating system.
+Yesterday, on July 18th, 2024 (Pacific Time), the world was in chaos. CrowdStrike pushed a faulty global update that affected millions of Windows computers. The scale of this incident was HUGE. I'm still in shock that so much of our important infrastructure relies on Windows. This incident is a major opportunity to discuss why Windows can be problematic as an operating system.
 
 # Short Recap
 
