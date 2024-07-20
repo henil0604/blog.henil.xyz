@@ -24,7 +24,7 @@ Lastly, the Windows codebase is a mess. It's a huge stack of patches that Micros
 
 I am always going to be linux nerd for the rest of my life and would **NEVER** even consider windows as primary operating system. I don't like to depend on a single company that is closed-source by nature.
 
-I am not claiming that Linux is the best. The Linux ecosystem has also experienced issues, such as the recent [XZ Utils backdoor incident](https://en.wikipedia.org/wiki/XZ_Utils_backdoor), which created significant disruption and was more severe than the CrowdStrike issue. However, such occurrences are infrequent within the Linux ecosystem. When they do happen, there is typically transparent documentation and investigation available online, reducing confusion about the events.
+I am not claiming that Linux is the best. The Linux ecosystem has also experienced issues, such as the recent [XZ Utils backdoor incident](https://en.wikipedia.org/wiki/XZ_Utils_backdoor). However, such occurrences are infrequent within the Linux ecosystem. When they do happen, there is typically transparent documentation and investigation available online, reducing confusion about the events.
 
 Additionally, Linux distributions benefit from multiple layers of verification and contributions from the community, which help prevent such incidents from becoming widespread. For example, the XZ backdoor had a minimal impact on servers and was quickly investigated and patched.
 
